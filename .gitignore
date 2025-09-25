@@ -1,0 +1,4 @@
+.env
+.volumes/
+n8n-output/
+n8n-workflows/
